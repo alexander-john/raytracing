@@ -1,7 +1,12 @@
 #include "color.h"
 #include "vec3.h"
+#include "ray.h"
 
 #include <iostream>
+
+color ray_color(const ray& r) {
+    return color(0,0,0);
+}
 
 int main() {
 

@@ -152,4 +152,5 @@ CMakeFiles/raytracing.dir/main.cpp.obj: C:\Projects\raytracing\main.cpp \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/basic_ios.tcc \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/ostream.tcc \
  C:/msys64/ucrt64/include/c++/13.1.0/istream \
- C:/msys64/ucrt64/include/c++/13.1.0/bits/istream.tcc
+ C:/msys64/ucrt64/include/c++/13.1.0/bits/istream.tcc \
+ C:\Projects\raytracing\ray.h

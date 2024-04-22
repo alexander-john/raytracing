@@ -173,8 +173,8 @@ CMakeFiles/raytracing.dir/main.cpp.obj: C:\Projects\raytracing\main.cpp \
  C:/msys64/ucrt64/include/c++/13.1.0/pstl/glue_memory_defs.h \
  C:/msys64/ucrt64/include/c++/13.1.0/pstl/execution_defs.h \
  C:\Projects\raytracing\color.h C:\Projects\raytracing\vec3.h \
- C:\Projects\raytracing\ray.h C:\Projects\raytracing\hittable.h \
- C:\Projects\raytracing\hittable_list.h \
+ C:\Projects\raytracing\interval.h C:\Projects\raytracing\ray.h \
+ C:\Projects\raytracing\hittable.h C:\Projects\raytracing\hittable_list.h \
  C:/msys64/ucrt64/include/c++/13.1.0/vector \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_vector.h \
  C:/msys64/ucrt64/include/c++/13.1.0/bits/stl_bvector.h \
